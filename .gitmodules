@@ -1,0 +1,3 @@
+[submodule "Phi-3-mini-128k-instruct"]
+	path = Phi-3-mini-128k-instruct
+	url = https://huggingface.co/microsoft/Phi-3-mini-128k-instruct
